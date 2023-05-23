@@ -65,7 +65,7 @@ Los métodos o verbos HTTP soportados por la API se presentan en la tabla siguie
 En la siguiente tabla se resumen los encabezados HTTP utilizados con la API REST de Astra Control.
 
 
-NOTE: Consulte https://["RFC 7232"^] y.. https://["RFC 7233"^] si quiere más información.
+NOTE: Consulte https://www.rfc-editor.org/rfc/rfc7232.txt["RFC 7232"^] y.. https://www.rfc-editor.org/rfc/rfc7233.txt["RFC 7233"^] si quiere más información.
 
 [cols="30,15,55"]
 |===

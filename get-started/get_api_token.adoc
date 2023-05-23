@@ -28,7 +28,7 @@ Esta tarea genera un token de API en la interfaz web de Astra. También debe rec
 .Pasos
 . Inicie sesión en Astra con sus credenciales de cuenta.
 +
-Acceda a las siguientes instalaciones para el servicio Astra Control: https://["https://astra.netapp.io"^]
+Acceda a las siguientes instalaciones para el servicio Astra Control: https://astra.netapp.io/["https://astra.netapp.io"^]
 
 . Haga clic en el icono de figura situado en la parte superior derecha de la página y seleccione *acceso API*.
 . Haga clic en *generar símbolo de API* en la página y, en la ventana emergente, haga clic en *generar símbolo de API*.

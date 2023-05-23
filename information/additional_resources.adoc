@@ -20,15 +20,15 @@ Hay recursos adicionales a los que puede acceder para obtener ayuda y obtener m�
 
 == Astra
 
-* https://["Documentación de Astra Control Center 2108"^]
+* https://docs.netapp.com/us-en/astra-control-center-2108/["Documentación de Astra Control Center 2108"^]
 +
 La documentación para el software Astra Control Center implementada en las instalaciones del cliente.
 
-* https://["Documentación de Astra Control Service"^]
+* https://docs.netapp.com/us-en/astra-control-service/["Documentación de Astra Control Service"^]
 +
 Documentación sobre el software Astra Control Service disponible en la nube pública.
 
-* https://["Documentación de Astra Trident"^]
+* https://docs.netapp.com/us-en/trident/["Documentación de Astra Trident"^]
 +
 Documentación para el orquestador de almacenamiento de código abierto Astra Trident mantenido por NetApp.
 
@@ -38,15 +38,15 @@ Documentación para el orquestador de almacenamiento de código abierto Astra Tr
 
 == Recursos de cloud de NetApp
 
-* https://["Soluciones cloud de NetApp"^]
+* https://cloud.netapp.com/["Soluciones cloud de NetApp"^]
 +
 Sitio central de las soluciones cloud de NetApp.
 
-* https://["Consola Cloud Central de NetApp"^]
+* https://services.cloud.netapp.com/redirect-to-login?startOnSignup=false["Consola Cloud Central de NetApp"^]
 +
 Consola de servicio Cloud Central de NetApp con inicio de sesión.
 
-* https://["Soporte de NetApp"^]
+* https://mysupport.netapp.com/["Soporte de NetApp"^]
 +
 Acceda a herramientas de solución de problemas, documentación y asistencia de soporte técnico.
 
@@ -56,15 +56,15 @@ Acceda a herramientas de solución de problemas, documentación y asistencia de 
 
 == Conceptos DE REST y tecnología cloud
 
-* Doctorado https://["disertación"^] Por Roy Fiding
+* Doctorado https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm["disertación"^] Por Roy Fiding
 +
 En esta publicación se introdujo y se estableció el modelo de desarrollo de aplicaciones DE REST.
 
-* https://["Auth0"^]
+* https://auth0.com/["Auth0"^]
 +
 Se trata del servicio de plataforma de autenticación y autorización utilizado por el servicio Astra para el acceso a la Web.
 
-* https://["Editor RFC"^]
+* https://www.rfc-editor.org/["Editor RFC"^]
 +
 Fuente autoritativa para estándares web e Internet que se mantiene como una colección de documentos RFC con números únicos.
 
